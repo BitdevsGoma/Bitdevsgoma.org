@@ -4,7 +4,7 @@ type: socratic
 title: "Socratic Seminar #1"
 ---
 
-### Agendas
+### Agenda
 
 11:10am Welcoming Address
 

@@ -1,4 +1,4 @@
-# DRC,GOMA Bitcoin Developers
+# GOMA Bitcoin Developers
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
