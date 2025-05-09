@@ -18,8 +18,8 @@ title: "Socratic Seminar #1"
 
 The event is hosted at **IHub**:
 
-6th floor Senteu Plaza, 
-Galana / Lenana Road 
+6th floor Senteu Plaza,
+Galana / Lenana Road
 
 [Map](https://www.google.com/maps/place/iHub/@-1.2891199,36.7809786,17z/data=!3m1!4b1!4m5!3m4!1s0x182f109996536c39:0x4eb6d6e1e16b4153!8m2!3d-1.2891199!4d36.7831673)  
 
