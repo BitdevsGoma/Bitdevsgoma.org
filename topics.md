@@ -5,7 +5,7 @@ layout: default
 #### Where to Find Topics for Future Seminars
 
 Below is a list of suggested places to find interesting socratic seminar topics to discuss at
-BitDevs Cotonou meetups. If you have any others to add to the list let us know.
+BitDevsGoma meetups. If you have any others to add to the list let us know.
 
 ### Mailing Lists, News Letters, Q&As
 
