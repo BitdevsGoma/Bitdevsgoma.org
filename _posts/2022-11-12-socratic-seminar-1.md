@@ -21,7 +21,7 @@ The event is hosted at **GeneisBar**:
 GOMA/DRCongo,
 Kyeshero
 
-[Map](https://maps.app.goo.gl/DfEeNoTCEqFmAo9KA)  
+[Map](https://goo.gl/maps/6S79eh2rn5RK3BhEA)  
 
 
 ### Announcements
