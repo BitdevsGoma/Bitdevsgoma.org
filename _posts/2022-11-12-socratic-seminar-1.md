@@ -34,7 +34,7 @@ sponsors [Gridless Compute](https://gridlesscompute.com/) for food and refreshme
    - No photos, videos, audio recording
    - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
    - Leave the meeting space as clean as you found it
-   - Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
+   - Suggest topics for the next Socratic Seminar! [Where to find topics?](/topics)
 
 ### Socratic Seminar
 
