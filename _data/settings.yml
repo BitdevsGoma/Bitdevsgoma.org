@@ -5,4 +5,4 @@ menu:
   - {name: 'Events', url: '/events'}
   - {name: 'Luma', url: 'https://lu.ma/user/BitdevsGoma', external: true}
   - {name: 'Whatsapp', url: 'https://chat.whatsapp.com/LDcuoctOUBE5dp9eYnjx1V', external: true}
-  - {name: 'X', url: 'https://x.com/bitdevsGoma', external: true}
+  - {name: 'Tweeter', url: 'https://x.com/bitdevsGoma', external: true}
