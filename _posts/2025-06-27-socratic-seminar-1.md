@@ -43,4 +43,4 @@ Nous sommes ravis d’organiser notre tout premier Socratic Seminar dédié aux 
    - Proposez des idées de sujets pour notre prochain séminaire !
    - Suggest topics for the next Socratic Seminar! [Where to find topics?](/topics)
 
-### Socratic Seminar
+
