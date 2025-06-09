@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #1"
+title: "Seminaire socratique #1"
 ---
 
 ### Agenda
@@ -33,8 +33,8 @@ Kyeshero
 
 ### Annonces
 
-We are excited to introduce our very first [Socratic Seminar](/about)! A special thank you to our 
-sponsors [Gridless Compute](https://gridlesscompute.com/) for food and refreshments.
+Nous sommes ravis d’organiser notre tout premier Socratic Seminar dédié aux développeurs Bitcoin !
+Prochain rensez-vous le mis prochain.
 
 ### Rappels importants
 
@@ -43,4 +43,4 @@ sponsors [Gridless Compute](https://gridlesscompute.com/) for food and refreshme
    - Proposez des idées de sujets pour notre prochain séminaire !
    - Suggest topics for the next Socratic Seminar! [Where to find topics?](/topics)
 
-### Socratic Seminar
+
