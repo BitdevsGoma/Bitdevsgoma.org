@@ -6,13 +6,20 @@ title: "Socratic Seminar #1"
 
 ### Agenda
 
-11:10am Welcoming Address
+14:00 – Discours d’ouverture
+Bienvenue et présentation de l'événement
 
-11:20am How I got into Bitcoin
+14:10 – Comment j’ai découvert le développement Bitcoin
+Témoignage personnel d’un contributeur open source
 
-11:40am Bitcoin 101
+14:30 – Développement open source : Bitcoin pour les débutants
+Comprendre le code de Bitcoin et l’écosystème open source
 
-12:10pm Bitcoin Developer Opportunities
+15:00 – Comment contribuer à Bitcoin Core et autres projets
+Opportunités, outils, et chemins pour débuter
+
+15:30 – Questions / Discussions ouvertes
+Échange libre autour du développement Bitcoin
 
 ### Location
 
