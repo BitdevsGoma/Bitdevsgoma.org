@@ -12,7 +12,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "BitDevsGoma"
-description: "BitDevsGoma is a meetup devoted to the research and development of Bitcoin."
+description: "BitDevsGoma est un meetup (rencontre) consacré à la recherche et au développement de Bitcoin."
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']

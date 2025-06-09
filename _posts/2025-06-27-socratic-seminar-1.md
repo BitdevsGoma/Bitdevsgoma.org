@@ -41,6 +41,6 @@ Nous sommes ravis d’organiser notre tout premier Socratic Seminar dédié aux 
    - Pas de photos, vidéos ni enregistrements audio
    - Règle de la Maison de Chatham (Ce qui est dit ici, reste ici)
    - Proposez des idées de sujets pour notre prochain séminaire !
-   - Suggest topics for the next Socratic Seminar! [Where to find topics?](/topics)
+   - Suggest topics for the next Socratic Seminar! [Où trouver des sujets ?](/topics)
 
 

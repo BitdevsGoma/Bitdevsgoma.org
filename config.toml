@@ -10,7 +10,7 @@ build_search_index = false
 
 
 title = "BitDevsGoma"
-description = "BitDevsGoma is a community in Goma, DRC, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+description = "BitDevsGoma est une communauté à Goma, en RDC, dédiée à ceux qui s'intéressent à la discussion et à la participation à la recherche et au développement de Bitcoin ainsi que des protocoles et logiciels associés."
 
 [markdown]
 # Whether to do syntax highlighting
