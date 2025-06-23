@@ -6,12 +6,12 @@ title: "Seminaire socratique #1"
 
 ### Agenda
 
-14:00 – Discours de Bienvenue et présentation de l'événement & ses objectifs à court et long terme
+14:00 – Discours de Bienvenue et présentation de l'événement & de ses objectifs à court et long terme
 
 14:15 – Présentation de Bitcoin en tant que bien commun du cyberespace (monnaie native d'internet)
 
 14:30 – Inroduction au développement open source de Bitcoin pour les débutants
-Comprendre le code de Bitcoin et l’écosystème open source (Comment contribuer; outils eet opportunités.
+Comprendre le code de Bitcoin et l’écosystème open source (Comment contribuer; outils eet opportunités).
 
 14:45 – Questions / Discussions ouvertes (Échange libre autour de Bitcoin et du logiciel libre)
 
