@@ -31,7 +31,7 @@ Kyeshero
 [Map](https://goo.gl/maps/6S79eh2rn5RK3BhEA)  
 
 
-### Annonces
+### Annonces 
 
 Nous sommes ravis d’organiser ce deuxieme Séminaire Socratique dédié à la communauté de développeurs de Goma !
 Prochain rensez-vous le dernier vendredi du mois prochain au Genesis Bar.
