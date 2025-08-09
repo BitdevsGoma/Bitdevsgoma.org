@@ -1,14 +1,14 @@
 ---
 layout: post
 type: socratic
-title: "Seminaire socratique #3"
+title: "Seminaire socratique #3" 
 ---
 
 ### Agenda
 
 - 14h00 – 14h25 : Bitcoin Core : Le cœur du protocole
 - Présentation de Bitcoin Core : son rôle en tant qu'implémentation de référence.
-- Structure du dépôt GitHub et des principaux répertoires (src, doc).
+- Structure du dépôt GitHub et des principaux répertoires (src, doc, etc).
 - 14h25 – 14h50 : Le Cycle de Développement de Bitcoin Core
 - Comprendre le processus de Pull Request (PR) et les revues de code.
 - Les différents acteurs et leur rôle (maintainers, contributeurs).
