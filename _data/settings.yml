@@ -3,6 +3,6 @@ tagline: 'BitDevsGoma est une rencontre mensuelle consacrée à la recherche et 
 
 menu:
   - {name: 'Events', url: '/events'}
-  - {name: 'Luma', url: 'https://lu.ma/user/BitdevsGoma', external: true}
+  - {name: 'Clooza', url: 'https://clooza.com/events/BITDEVSGOMA', external: true}
   - {name: 'Whatsapp', url: 'https://chat.whatsapp.com/LDcuoctOUBE5dp9eYnjx1V', external: true}
   - {name: 'Tweeter', url: 'https://x.com/bitdevsGoma', external: true}
