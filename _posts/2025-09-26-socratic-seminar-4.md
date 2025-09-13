@@ -55,6 +55,6 @@ Prochain rendez-vous : **dernier vendredi du mois prochain au Genesis Bar**.
 ### Rappels importants
 
 - Pas de photos, vidéos ni enregistrements audio.  
-- Règle de la Maison de Chatham (Ce qui est dit ici, reste ici).  
+- [Règle de la Maison de Chatham](https://www.chathamhouse.org/about-us/chatham-house-rule) 
 - Proposez des idées de sujets pour notre prochain séminaire !  
 - Suggest topics for the next Socratic seminar ! [Où trouver des sujets ?](/topics)  
