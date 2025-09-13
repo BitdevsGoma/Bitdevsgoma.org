@@ -22,7 +22,7 @@ title: "Séminaire Socratique #4"
 - Explication de la commande `createrawtransaction` et de la structure JSON.  
 - Signature de la transaction avec `signrawtransactionwithkey`.  
 
-15h15 – 15h35 : **Atelier 2 : Manipuler les transactions - Payer un ami et un minage fee**  
+15h15 – 15h35 : **Atelier 2 : Manipuler les transactions - Payer un ami et un mining fee**  
 - Tâche guidée : créer une transaction avec deux sorties (une vers un destinataire, l'autre vers une "change address").  
 - Comprendre et calculer les frais de transaction.  
 - Diffusion de la transaction sur le réseau testnet avec `sendrawtransaction`.  
