@@ -13,7 +13,8 @@ title: "Séminaire Socratique #4"
 - Le rôle de Bitcoin Script dans la validation des transactions.  
 - Les différents types de transactions (P2PKH, P2SH).
 
-14h25 – 14h50 : **Préparation pratique : Mise en place de l'environnement**  
+14h25 – 14h50 : **Préparation pratique : Mise en place de l'environnement**
+
 - Présentation de l'utilitaire en ligne de commande `bitcoin-cli`.  
 - Connexion à un nœud de testnet ou de regtest local.  
 - Création d'un portefeuille de test et obtention de fonds testnet.  
@@ -31,6 +32,7 @@ title: "Séminaire Socratique #4"
 - Diffusion de la transaction sur le réseau testnet avec `sendrawtransaction`.  
 
 15h35 – 16h00 : **Débat, Q&A et Networking**  
+
 - Discussion sur les limites de cette méthode et l'importance des bibliothèques.  
 - Questions-réponses sur les transactions, la sécurité et les bonnes pratiques.  
 - Échanges et réseautage entre les participants.  
