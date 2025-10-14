@@ -6,7 +6,7 @@ title: "Séminaire Socratique #5"
 
 ### Agenda
 
-14h00 – 14h25 : Théorie : Les conditions de dépense dans Bitcoin
+14h00 – 14h25 : **Théorie : Les conditions de dépense dans Bitcoin**
 
 - Rappel rapide : locking script (scriptPubKey) et unlocking script (scriptSig).
 
@@ -16,7 +16,7 @@ title: "Séminaire Socratique #5"
 
 - Pourquoi ces scripts sont fondamentaux pour la sécurité et les contrats Bitcoin.
 
-14h25 – 14h45 : Préparation de l’environnement regtest
+14h25 – 14h45 : **Préparation de l’environnement regtest**
 
 - Démarrage du nœud Bitcoin Core en mode regtest.
 
@@ -26,7 +26,7 @@ title: "Séminaire Socratique #5"
 
 - Vérification des adresses et soldes initiaux.
 
-14h45 – 15h20 : Atelier 1 : Créer et utiliser une adresse Multisig 2-of-3
+14h45 – 15h20 : Atelier 1 : **Créer et utiliser une adresse Multisig 2-of-3**
 
 - Génération des trois clés publiques.
 
@@ -38,7 +38,7 @@ title: "Séminaire Socratique #5"
 
 - Vérification et exécution du script dans regtest.
 
-15h20 – 15h50 : Atelier 2 : Timelock — Verrouiller une transaction dans le temps
+15h20 – 15h50 : Atelier 2 : **Timelock — Verrouiller une transaction dans le temps**
 
 - Utilisation de nLockTime ou de OP_CHECKLOCKTIMEVERIFY pour bloquer une dépense avant un certain bloc.
 
@@ -48,20 +48,21 @@ title: "Séminaire Socratique #5"
 
 - Vérification du comportement avec getblockcount et sendrawtransaction.
 
-15h50 – 16h15 : Atelier 3 : Mini “contrat intelligent” Bitcoin Script
+15h50 – 16h15 : **Atelier 3 : Mini “contrat intelligent” Bitcoin Script**
 
-- Écriture d’un script conditionnel :
-“Si Alice signe, paiement direct ; sinon, après 10 blocs, Bob récupère les fonds.”
+- Écriture d’un script conditionnel : “Si Alice signe, paiement direct ; sinon, après 10 blocs, Bob récupère les fonds.”
 
 - Construction manuelle du script (avec OP_IF, OP_ELSE, OP_ENDIF, OP_CHECKSIG, OP_CHECKLOCKTIMEVERIFY).
 
 - Exécution et validation du flux logique dans regtest.
 
-16h15 – 16h30 : Débat, Q&A et Perspectives
+16h15 – 16h30 : **Débat, Q&A et Perspectives**
 
 - Discussion sur l’évolution vers Taproot et Miniscript.
 
 - Avantages des signatures Schnorr et des scripts simplifiés.
+
+---
 
 ### Location
 
