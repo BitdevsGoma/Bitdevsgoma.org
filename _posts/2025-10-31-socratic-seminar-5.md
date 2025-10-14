@@ -41,6 +41,7 @@ title: "Séminaire Socratique #5"
 - Construction manuelle du script (avec OP_IF, OP_ELSE, OP_ENDIF, OP_CHECKSIG, OP_CHECKLOCKTIMEVERIFY).
 - Exécution et validation du flux logique dans regtest.
 
+
 16h15 – 16h30 : **Débat, Q&A et Perspectives**
 
 - Discussion sur l’évolution vers Taproot et Miniscript.
