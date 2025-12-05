@@ -13,6 +13,8 @@ title: "Séminaire Socratique #7"
 - Limites du modèle “Si Alice… sinon Bob”.
 - Pourquoi les scripts complexes nécessitent une réflexion de sécurité (malicious branches, fail-paths, SIGCOUNT, etc).
 
+
+
 14h15 – 14h40 : **Théorie – Branches imbriquées & multi-conditions**
 
 **Construction d’un script à 2 ou 3 niveaux :**
@@ -29,6 +31,8 @@ title: "Séminaire Socratique #7"
 
 
 14h40 – 15h15 : **Atelier 1 – Script imbriqué 3-niveaux**
+
+
 
 - Script à construire :
 - “Si Alice signe → paiement immédiat ;
@@ -55,6 +59,8 @@ title: "Séminaire Socratique #7"
 
 
 15h45 – 16h10 : **Atelier 3 – Analyse et traduction du script en Miniscript**
+
+
 
 - Passer de Script brut → Miniscript → Taproot script-path
 - Introduction rapide : pourquoi Miniscript ?
