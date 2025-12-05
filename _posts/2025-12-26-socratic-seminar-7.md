@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Séminaire Socratique #6"
+title: "Séminaire Socratique #7"
 ---
 
 ### Agenda
