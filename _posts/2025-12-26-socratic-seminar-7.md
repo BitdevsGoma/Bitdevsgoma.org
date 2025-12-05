@@ -1,97 +1,125 @@
-14h00 – 14h15 : Rappel & montée de niveau
+---
+layout: post
+type: socratic
+title: "Séminaire Socratique #6"
+---
 
-Rappel ultra-rapide du script du précédent BitDevs.
+### Agenda
 
-Limites du modèle “Si Alice… sinon Bob”.
+14h00 – 14h15 : **Rappel & montée de niveau**
 
-Pourquoi les scripts complexes nécessitent une réflexion de sécurité (malicious branches, fail-paths, SIGCOUNT, etc).
 
-14h15 – 14h40 : Théorie – Branches imbriquées & multi-conditions
+- Rappel ultra-rapide du script du précédent BitDevs.
 
-Objectif : maîtriser les contracts complexes proches des “smart contracts” Bitcoin.
+- Limites du modèle “Si Alice… sinon Bob”.
 
-Construction d’un script à 2 ou 3 niveaux :
+- Pourquoi les scripts complexes nécessitent une réflexion de sécurité (malicious branches, fail-paths, SIGCOUNT, etc).
 
-IF (condition1) { … } ELSE { IF (condition2) … }
 
-Combiner :
 
-OP_CHECKSIG
 
-OP_CHECKMULTISIG
+14h15 – 14h40 : **Théorie – Branches imbriquées & multi-conditions**
 
-OP_CHECKLOCKTIMEVERIFY (CLTV)
 
-OP_CHECKSEQUENCEVERIFY (CSV)
+**Construction d’un script à 2 ou 3 niveaux :**
 
-Comprendre les conditions multiples :
+- IF (condition1) { … } ELSE { IF (condition2) … }
 
-“Alice avant bloc X, sinon Bob si 2 signatures, sinon Carol après délai Y”.
+- Combiner :
 
-14h40 – 15h15 : Atelier 1 – Script imbriqué 3-niveaux
+- OP_CHECKSIG
 
-Script à construire :
-“Si Alice signe → paiement immédiat ;
-sinon si Bob + Carol signent → paiement avant bloc X ;
-sinon après bloc X+5 → Carol seule récupère les fonds.”
+- OP_CHECKMULTISIG
 
-Création pas à pas du script.
+- OP_CHECKLOCKTIMEVERIFY (CLTV)
 
-Analyse des chemins d’exécution.
+- OP_CHECKSEQUENCEVERIFY (CSV)
 
-Prévention des erreurs (branches non atteignables, stack errors).
+- Comprendre les conditions multiples :
 
-15h15 – 15h45 : Atelier 2 – CLTV + CSV combinés (verrou dur + verrou relatif)
+- “Alice avant bloc X, sinon Bob si 2 signatures, sinon Carol après délai Y”.
 
-Objectif : utiliser simultanément un verrou absolu et un verrou relatif.
 
-Cas pratique :
-“Si Alice signe → dépense immédiate ;
-sinon Bob peut dépenser après bloc X
-mais uniquement s’il attend 5 blocs après sa transaction (CSV).”
 
-Création et test dans Bitcoin Core.
+14h40 – 15h15 : **Atelier 1 – Script imbriqué 3-niveaux**
 
-Validation par simulation de blocs.
+- Script à construire :
 
-Analyse des compromis de sécurité.
+- “Si Alice signe → paiement immédiat ;
 
-15h45 – 16h10 : Atelier 3 – Analyse et traduction du script en Miniscript
+- sinon si Bob + Carol signent → paiement avant bloc X ;
 
-Passer de Script brut → Miniscript → Taproot script-path
+- sinon après bloc X+5 → Carol seule récupère les fonds.”
 
-Introduction rapide : pourquoi Miniscript ?
+**Création pas à pas du script.**
 
-Traduction du script imbriqué dans le langage Miniscript.
+- Analyse des chemins d’exécution.
 
-Vérification automatique des propriétés :
+- Prévention des erreurs (branches non atteignables, stack errors).
 
-complétude
 
-non-malleabilité
+15h15 – 15h45 : **Atelier 2 – CLTV + CSV combinés (verrou dur + verrou relatif)**
 
-sécurité des branches
 
-Construction d’un Taproot script-path avec ce Miniscript.
+**Cas pratique :**
 
-16h10 – 16h25 : Atelier 4 – Contrat complet Taproot (Tapscript)
+- “Si Alice signe → dépense immédiate ;
+- sinon Bob peut dépenser après bloc X mais uniquement s’il attend 5 blocs après sa transaction (CSV).”
 
-Mini smart contract version Taproot :
+- Création et test dans Bitcoin Core.
 
-“Chemin 1 : signature Schnorr d’Alice → instantané.
-Chemin 2 : Bob + Carol via multisig → avec CSV 3 blocs.
-Chemin 3 : Carol seule après CLTV bloc X.”
+- Validation par simulation de blocs.
 
-Construction de l’arbre Taptree.
+- Analyse des compromis de sécurité.
 
-Création et test du contrôle de chemin.
 
-Dépense pratique via Bitcoin Core.
 
-16h25 – 16h30 : Q&A – Perspectives & prochaines étapes
+15h45 – 16h10 : **Atelier 3 – Analyse et traduction du script en Miniscript**
 
-Introduction aux vaults Bitcoin (modeling).
+- Passer de Script brut → Miniscript → Taproot script-path
 
-Futur : Covenants, OP_CAT, BIP-119, BitVM.
+- Introduction rapide : pourquoi Miniscript ?
 
-Mini-débat : “Jusqu’où peut-on aller sans casser la simplicité Bitcoin ?”
+- Traduction du script imbriqué dans le langage Miniscript.
+
+- Vérification automatique des propriétés :
+
+- complétude
+
+- non-malleabilité
+
+- sécurité des branches
+
+- Construction d’un Taproot script-path avec ce Miniscript.
+
+
+
+
+---
+
+### Location
+
+L'événement se déroule au **GenesisBar** :
+
+150, Av. Mayi Moto, Kyeshero, Goma, DRCongo,  
+Kyeshero  
+
+[Map](https://goo.gl/maps/6S79eh2rn5RK3BhEA)  
+
+---
+
+### Annonces
+
+Nous poursuivons la série de Séminaires Socratiques pour la communauté de développeurs de Goma.  
+Prochain rendez-vous : **dernier vendredi du mois prochain au Genesis Bar**.  
+
+---
+
+### Rappels importants
+
+- Pas de photos, vidéos ni enregistrements audio.  
+- [Règle de la Maison de Chatham](https://www.chathamhouse.org/about-us/chatham-house-rule) 
+- Proposez des idées de sujets pour notre prochain séminaire !  
+- Suggest topics for the next Socratic seminar ! [Où trouver des sujets ?](/topics)  
+
+
