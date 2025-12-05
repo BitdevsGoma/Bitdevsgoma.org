@@ -10,16 +10,10 @@ title: "Séminaire Socratique #7"
 
 
 - Rappel ultra-rapide du script du précédent BitDevs.
-
 - Limites du modèle “Si Alice… sinon Bob”.
-
 - Pourquoi les scripts complexes nécessitent une réflexion de sécurité (malicious branches, fail-paths, SIGCOUNT, etc).
 
-
-
-
 14h15 – 14h40 : **Théorie – Branches imbriquées & multi-conditions**
-
 
 **Construction d’un script à 2 ou 3 niveaux :**
 
