@@ -24,19 +24,12 @@ title: "Séminaire Socratique #7"
 **Construction d’un script à 2 ou 3 niveaux :**
 
 - IF (condition1) { … } ELSE { IF (condition2) … }
-
 - Combiner :
-
 - OP_CHECKSIG
-
 - OP_CHECKMULTISIG
-
 - OP_CHECKLOCKTIMEVERIFY (CLTV)
-
 - OP_CHECKSEQUENCEVERIFY (CSV)
-
 - Comprendre les conditions multiples :
-
 - “Alice avant bloc X, sinon Bob si 2 signatures, sinon Carol après délai Y”.
 
 
@@ -44,17 +37,13 @@ title: "Séminaire Socratique #7"
 14h40 – 15h15 : **Atelier 1 – Script imbriqué 3-niveaux**
 
 - Script à construire :
-
 - “Si Alice signe → paiement immédiat ;
-
 - sinon si Bob + Carol signent → paiement avant bloc X ;
-
 - sinon après bloc X+5 → Carol seule récupère les fonds.”
 
 **Création pas à pas du script.**
 
 - Analyse des chemins d’exécution.
-
 - Prévention des erreurs (branches non atteignables, stack errors).
 
 
@@ -65,11 +54,8 @@ title: "Séminaire Socratique #7"
 
 - “Si Alice signe → dépense immédiate ;
 - sinon Bob peut dépenser après bloc X mais uniquement s’il attend 5 blocs après sa transaction (CSV).”
-
 - Création et test dans Bitcoin Core.
-
 - Validation par simulation de blocs.
-
 - Analyse des compromis de sécurité.
 
 
@@ -77,19 +63,12 @@ title: "Séminaire Socratique #7"
 15h45 – 16h10 : **Atelier 3 – Analyse et traduction du script en Miniscript**
 
 - Passer de Script brut → Miniscript → Taproot script-path
-
 - Introduction rapide : pourquoi Miniscript ?
-
 - Traduction du script imbriqué dans le langage Miniscript.
-
 - Vérification automatique des propriétés :
-
 - complétude
-
 - non-malleabilité
-
 - sécurité des branches
-
 - Construction d’un Taproot script-path avec ce Miniscript.
 
 
