@@ -18,7 +18,7 @@ title: "Seminaire socratique #3"
 - 15h15 – 15h35 : Le Test et la Qualité du Code
 - Importance des tests unitaires, fonctionnels et d'intégration.
 - Présentation des frameworks de test utilisés par Bitcoin Core.
-- 15h35 – 16h00 : Débat & Q&A + Networking
+- 15h35 – 16h00 : Débat & Q&A + Networking.
 - Discussion sur les défis et les récompenses de la contribution à l'open source.
 - Questions-réponses et échange avec la communauté.
 
