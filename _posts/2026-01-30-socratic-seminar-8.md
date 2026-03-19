@@ -20,6 +20,7 @@ title: "Séminaire Socratique #8"
 - node léger côté client
 - LSP (Lightning Service Provider)
 
+
 **Modèle de sécurité :**
 
 - non-custodial

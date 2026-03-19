@@ -8,83 +8,82 @@ title: "Séminaire Socratique #10"
 
 **14h00 – 14h20 : Théorie — État actuel du protocole Lightning et problématiques**
 
-Vue d’ensemble du réseau Lightning :
+**Vue d’ensemble du réseau Lightning :**
 
 * fonctionnement des canaux de paiement
 * routage et réseau de nœuds
 
-Problématiques actuelles :
+**Problématiques actuelles :**
 
 * congestion du réseau
 * gestion de la liquidité (entrante / sortante)
 * ouverture et fermeture des canaux coûteuses
 * fragmentation de la liquidité
 
-Limites techniques :
+**Limites techniques :**
 
 * complexité pour les utilisateurs
 * dépendance aux nœuds bien connectés
 * UX encore fragile pour les applications
 
----
+
 
 **14h20 – 14h45 : Théorie — Gestion des canaux et contraintes réseau**
 
-Cycle de vie d’un canal :
+**Cycle de vie d’un canal :**
 
 * ouverture (on-chain)
 * utilisation off-chain
 * fermeture
 
-Gestion de la liquidité :
+**Gestion de la liquidité :**
 
 * inbound vs outbound liquidity
 * équilibrage des canaux
 * routing fees et efficacité
 
-Congestion et ses impacts :
+**Congestion et ses impacts :**
 
 * frais on-chain élevés
 * délais d’ouverture/fermeture
 * saturation des routes
 
-Conséquences côté applicatif :
+**Conséquences côté applicatif :**
 
 * paiements échoués
 * latence
 * complexité d’intégration pour les développeurs
 
----
 
 **14h45 – 15h15 : Atelier 1 — Analyse pratique du réseau Lightning**
 
-Exploration d’un nœud Lightning :
+**Exploration d’un nœud Lightning :**
+
 
 * visualisation des canaux
 * état de la liquidité
 * analyse des routes
 
-Simulation :
+**Simulation** :
 
 * envoi de paiements
 * observation des échecs
 * compréhension des erreurs (liquidité insuffisante, routes indisponibles)
 
-Outils :
+**Outils :**
 
 * interface LND / Core Lightning
 * dashboards de monitoring
 
-Observation :
+**Observation :**
 
 * comportement du réseau en conditions réelles
 * impact de la congestion
 
----
 
 **15h15 – 15h50 : Théorie & Atelier 2 — Propositions d’amélioration et impact applicatif**
 
-Nouvelles solutions :
+**Nouvelles solutions :**
 
 **Splicing :**
 
