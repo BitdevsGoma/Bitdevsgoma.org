@@ -10,21 +10,27 @@ title: "Séminaire Socratique #10"
 
 **Vue d’ensemble du réseau Lightning :**
 
-* fonctionnement des canaux de paiement
-* routage et réseau de nœuds
+- fonctionnement des canaux de paiement
+
+- routage et réseau de nœuds
 
 **Problématiques actuelles :**
 
-* congestion du réseau
-* gestion de la liquidité (entrante / sortante)
-* ouverture et fermeture des canaux coûteuses
-* fragmentation de la liquidité
+- congestion du réseau
+
+- gestion de la liquidité (entrante / sortante)
+
+- ouverture et fermeture des canaux coûteuses
+
+- fragmentation de la liquidité
 
 **Limites techniques :**
 
-* complexité pour les utilisateurs
-* dépendance aux nœuds bien connectés
-* UX encore fragile pour les applications
+- complexité pour les utilisateurs
+
+- dépendance aux nœuds bien connectés
+
+- UX encore fragile pour les applications
 
 
 
@@ -32,27 +38,35 @@ title: "Séminaire Socratique #10"
 
 **Cycle de vie d’un canal :**
 
-* ouverture (on-chain)
-* utilisation off-chain
-* fermeture
+- ouverture (on-chain)
+
+- utilisation off-chain
+
+- fermeture
 
 **Gestion de la liquidité :**
 
-* inbound vs outbound liquidity
-* équilibrage des canaux
-* routing fees et efficacité
+- inbound vs outbound liquidity
+
+- équilibrage des canaux
+
+- routing fees et efficacité
 
 **Congestion et ses impacts :**
 
-* frais on-chain élevés
-* délais d’ouverture/fermeture
-* saturation des routes
+- frais on-chain élevés
+
+- délais d’ouverture/fermeture
+
+- saturation des routes
 
 **Conséquences côté applicatif :**
 
-* paiements échoués
-* latence
-* complexité d’intégration pour les développeurs
+- paiements échoués
+
+- latence
+
+- complexité d’intégration pour les développeurs
 
 
 **14h45 – 15h15 : Atelier 1 — Analyse pratique du réseau Lightning**
@@ -60,25 +74,31 @@ title: "Séminaire Socratique #10"
 **Exploration d’un nœud Lightning :**
 
 
-* visualisation des canaux
-* état de la liquidité
-* analyse des routes
+- visualisation des canaux
+
+- état de la liquidité
+
+- analyse des routes
 
 **Simulation** :
 
-* envoi de paiements
-* observation des échecs
-* compréhension des erreurs (liquidité insuffisante, routes indisponibles)
+- envoi de paiements
+
+- observation des échecs
+
+- compréhension des erreurs (liquidité insuffisante, routes indisponibles)
 
 **Outils :**
 
-* interface LND / Core Lightning
-* dashboards de monitoring
+- interface LND / Core Lightning
+
+- dashboards de monitoring
 
 **Observation :**
 
-* comportement du réseau en conditions réelles
-* impact de la congestion
+- comportement du réseau en conditions réelles
+
+- impact de la congestion
 
 
 **15h15 – 15h50 : Théorie & Atelier 2 — Propositions d’amélioration et impact applicatif**
@@ -87,36 +107,44 @@ title: "Séminaire Socratique #10"
 
 **Splicing :**
 
-* modification d’un canal sans fermeture
-* ajout/retrait de liquidité on-chain
-* amélioration de la flexibilité
+- modification d’un canal sans fermeture
+
+- ajout/retrait de liquidité on-chain
+
+- amélioration de la flexibilité
 
 **Dual Funding :**
 
-* ouverture de canal avec contribution des deux parties
-* meilleure distribution de la liquidité
-* réduction des déséquilibres
+- ouverture de canal avec contribution des deux parties
+
+- meilleure distribution de la liquidité
+
+- réduction des déséquilibres
 
 **Autres pistes :**
 
-* channel factories
-* amélioration du routing
+- channel factories
+
+- amélioration du routing
 
 **Impact sur les applications :**
 
-* meilleure fiabilité des paiements
-* réduction des coûts
-* simplification UX
+- meilleure fiabilité des paiements
+
+- réduction des coûts
+- simplification UX
 
 **Mini mise en situation :**
 
-* comparaison avant / après amélioration
-* réflexion sur intégration dans une app
+- comparaison avant / après amélioration
+
+- réflexion sur intégration dans une app
 
 **Analyse finale :**
 
-* limites restantes
-* perspectives d’évolution du Lightning
+- limites restantes
+
+- perspectives d’évolution du Lightning
 
 
 ---
