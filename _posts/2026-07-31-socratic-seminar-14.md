@@ -8,16 +8,16 @@ title: "Séminaire Socratique #14"
 
 
 
-**14h00 – 14h20 : Théorie — Découverte de l’écosystème des outils de développement Bitcoin**
+## 14h00 – 14h20 : Théorie — Découverte de l’écosystème des outils de développement Bitcoin
 
-**Pourquoi des outils spécialisés ?**
+## Pourquoi des outils spécialisés ?
 
 * Pourquoi développer sur Bitcoin est différent des autres plateformes
 * Les différentes catégories d'outils dans l'écosystème Bitcoin
 * Comprendre la chaîne de développement d'une application Bitcoin
 * Choisir les bons outils selon son projet
 
-**Panorama des principaux outils**
+## Panorama des principaux outils
 
 * Bitcoin Core
 * Bitcoin Development Kit (BDK)
@@ -27,30 +27,30 @@ title: "Séminaire Socratique #14"
 * Mempool API
 * RPC Bitcoin Core
 
-**Architecture générale**
+## Architecture générale
 
 * Comment les différents outils communiquent entre eux
 * Nœud Bitcoin, portefeuille, indexeur et application
 * Flux des données dans une application Bitcoin
 
 
-**14h20 – 14h45 : Mise en place d'un environnement de développement Bitcoin**
+## 14h20 – 14h45 : Mise en place d'un environnement de développement Bitcoin
 
-**Installation des outils**
+## Installation des outils
 
 * Installation de Bitcoin Core
 * Synchronisation d'un nœud local
 * Utilisation du mode Regtest
 * Présentation de Docker pour simplifier les déploiements
 
-**Premières interactions**
+## Premières interactions
 
 * Exploration du dossier de données Bitcoin
 * Configuration du fichier bitcoin.conf
 * Démarrage et arrêt d'un nœud
 * Vérification de l'état du réseau
 
-**Premiers appels RPC**
+## Premiers appels RPC
 
 * Comprendre le protocole RPC
 * Connexion au nœud
@@ -58,22 +58,22 @@ title: "Séminaire Socratique #14"
 * Génération de blocs en Regtest
 
 
-**14h45 – 15h15 : Atelier 1 — Découverte des bibliothèques de développement Bitcoin**
+## 14h45 – 15h15 : Atelier 1 — Découverte des bibliothèques de développement Bitcoin
 
-**Bitcoin Development Kit (BDK)**
+## Bitcoin Development Kit (BDK)
 
 * Création d'un portefeuille
 * Génération d'adresses
 * Synchronisation du portefeuille
 * Consultation des soldes
 
-**Bibliothèques selon les langages**
+## Bibliothèques selon les langages
 
 * bitcoinjs-lib (JavaScript / TypeScript)
 * rust-bitcoin (Rust)
 * python-bitcoinlib (Python)
 
-**Premiers exemples**
+## Premiers exemples
 
 * Création d'une adresse Bitcoin
 * Lecture d'une transaction
@@ -82,9 +82,9 @@ title: "Séminaire Socratique #14"
 
 
 
-**15h15 – 15h50 : Atelier 2 — Construire une première application Bitcoin**
+## 15h15 – 15h50 : Atelier 2 — Construire une première application Bitcoin
 
-**Architecture d'une application**
+## Architecture d'une application
 
 * Frontend
 * Backend
@@ -92,7 +92,7 @@ title: "Séminaire Socratique #14"
 * Bibliothèque Bitcoin
 * Base de données
 
-**Développement pratique**
+## Développement pratique
 
 * Connexion d'une application au nœud Bitcoin
 * Récupération des informations de la blockchain
