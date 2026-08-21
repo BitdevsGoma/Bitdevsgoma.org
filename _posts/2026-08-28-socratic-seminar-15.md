@@ -8,12 +8,14 @@ title: "Séminaire Socratique #15"
 
 
 
-**« Bitcoin Regtest : créer, miner et dépenser ses premiers bitcoins sur un réseau local »**
+### **« Bitcoin Regtest : créer, miner et dépenser ses premiers bitcoins sur un réseau local »**
+
 
 L’objectif est que même un développeur qui découvre Bitcoin puisse comprendre concrètement ce qui se passe lorsqu’on crée des blocs, reçoit des BTC, consulte une transaction et dépense ces BTC — le tout sans utiliser de vrais bitcoins.
 
 
-**14h00 – 14h20 : Comprendre le Regtest**
+### **14h00 – 14h20 : Comprendre le Regtest**
+
 
 * Qu’est-ce que le Regtest ?
 * Différence entre Mainnet, Testnet et Regtest
@@ -21,7 +23,9 @@ L’objectif est que même un développeur qui découvre Bitcoin puisse comprend
 * Comment fonctionne un réseau Bitcoin local ?
 * Nœud, wallet, blocs, transactions : qui fait quoi ?
 
-**14h20 – 14h45 : Créer son premier réseau Bitcoin local**
+
+### **14h20 – 14h45 : Créer son premier réseau Bitcoin local**
+
 
 * Lancer Bitcoin Core en Regtest
 * Comprendre `bitcoin.conf`
@@ -30,7 +34,9 @@ L’objectif est que même un développeur qui découvre Bitcoin puisse comprend
 * Vérifier l’état du nœud
 * Utiliser les premières commandes RPC
 
-**14h45 – 15h15 : Atelier — Miner ses premiers BTC**
+
+### **14h45 – 15h15 : Atelier — Miner ses premiers BTC**
+
 
 * Générer des blocs en Regtest
 * Comprendre la récompense de minage
@@ -40,7 +46,9 @@ L’objectif est que même un développeur qui découvre Bitcoin puisse comprend
 * Explorer les blocs générés
 * Retrouver une transaction
 
-**15h15 – 15h50 : Atelier — Faire sa première transaction Bitcoin**
+
+### **15h15 – 15h50 : Atelier — Faire sa première transaction Bitcoin**
+
 
 * Créer deux wallets
 * Générer une adresse pour chacun
@@ -50,7 +58,9 @@ L’objectif est que même un développeur qui découvre Bitcoin puisse comprend
 * Vérifier le nouveau solde
 * Explorer la transaction avec les commandes RPC
 
+
 Le résultat recherché à la fin est très simple : **chaque participant doit être capable de lancer son propre réseau Regtest, créer des BTC de test, miner des blocs, effectuer une transaction et comprendre exactement le chemin parcouru par cette transaction.**
+
 
 ---
 
