@@ -1,3 +1,4 @@
+---
 layout: post
 type: socratic
 title: "Séminaire Socratique #16"
@@ -7,7 +8,7 @@ title: "Séminaire Socratique #16"
 
 
 
-### **« BITCOIN SANS MAGIE : CONSTRUIS ET SIGNE TA PREMIÈRE TRANSACTION »**[cite: 1]
+### ** BITCOIN SANS MAGIE : CONSTRUIS ET SIGNE TA PREMIÈRE TRANSACTION **
 
 
 Derrière chaque transaction Bitcoin se cachent des UTXOs que vous pouvez comprendre, contrôler et construire. Après avoir mis en place notre environnement Regtest en août, l’objectif de cette session est de construire manuellement une transaction, sélectionner les UTXOs, définir les outputs, calculer les frais, la signer puis la diffuser sur le réseau local.
@@ -56,11 +57,11 @@ Le résultat recherché à la fin est très simple : **chaque participant doit �
 
 ### Location
 
-L'événement se déroule au **Genesis Bar**[cite: 1] :
+L'événement se déroule au **Genesis Bar**
 
-Sis 150, Av. Mayimoto, Q. Kyeshero[cite: 1]  
-Goma / Nord-Kivu DRC[cite: 1]  
-Réf: Hôpital DOCS Kyeshero[cite: 1]  
+Sis 150, Av. Mayimoto, Q. Kyeshero  
+Goma / Nord-Kivu DRC
+Réf: Hôpital DOCS Kyeshero 
 
 [Map](https://goo.gl/maps/6S79eh2rn5RK3BhEA)  
 
@@ -69,9 +70,9 @@ Réf: Hôpital DOCS Kyeshero[cite: 1]
 ### Annonces
 
 Nous poursuivons la série de Séminaires Socratiques pour la communauté de développeurs de Goma.  
-Prochain rendez-vous : **Vendredi 25 Septembre 2026 de 14h00 à 16h00 au Genesis Bar**[cite: 1].  
+Prochain rendez-vous : **Vendredi 25 Septembre 2026 de 14h00 à 16h00 au Genesis Bar**  
 
-Sponsorisé par **Btrust**[cite: 1].
+Sponsorisé par **Btrust**.
 
 ---
 
