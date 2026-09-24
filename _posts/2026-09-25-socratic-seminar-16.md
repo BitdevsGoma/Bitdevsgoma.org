@@ -8,7 +8,7 @@ title: "Séminaire Socratique #16"
 
 
 
-### ** BITCOIN SANS MAGIE : CONSTRUIS ET SIGNE TA PREMIÈRE TRANSACTION **
+###  BITCOIN SANS MAGIE : CONSTRUIS ET SIGNE TA PREMIÈRE TRANSACTION 
 
 
 Derrière chaque transaction Bitcoin se cachent des UTXOs que vous pouvez comprendre, contrôler et construire. Après avoir mis en place notre environnement Regtest en août, l’objectif de cette session est de construire manuellement une transaction, sélectionner les UTXOs, définir les outputs, calculer les frais, la signer puis la diffuser sur le réseau local.

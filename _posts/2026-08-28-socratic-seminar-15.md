@@ -8,7 +8,7 @@ title: "Séminaire Socratique #15"
 
 
 
-###  Bitcoin Regtest : créer, miner et dépenser ses premiers bitcoins sur un réseau local 
+###  **Bitcoin Regtest : créer, miner et dépenser ses premiers bitcoins sur un réseau local **
 
 
 L’objectif est que même un développeur qui découvre Bitcoin puisse comprendre concrètement ce qui se passe lorsqu’on crée des blocs, reçoit des BTC, consulte une transaction et dépense ces BTC — le tout sans utiliser de vrais bitcoins.
